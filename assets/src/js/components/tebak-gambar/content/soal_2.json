@@ -1,0 +1,142 @@
+[
+	{
+		"no": 1,
+		"image": "SOAL_2/soal_type2_01.jpg",
+		"answer": "",
+		"trueAnswer": "Apa Adanya",
+		"is_correct": false
+	},
+	{
+		"no": 2,
+		"image": "SOAL_2/soal_type2_02.jpg",
+		"answer": "",
+		"trueAnswer": "Cukup Bosan",
+		"is_correct": false
+	},
+	{
+		"no": 3,
+		"image": "SOAL_2/soal_type2_03.jpg",
+		"answer": "",
+		"trueAnswer": "Hak Cipta",
+		"is_correct": false
+	},
+	{
+		"no": 4,
+		"image": "SOAL_2/soal_type2_04.jpg",
+		"answer": "",
+		"trueAnswer": "Ikan Asin",
+		"is_correct": false
+	},
+	{
+		"no": 5,
+		"image": "SOAL_2/soal_type2_05.jpg",
+		"answer": "",
+		"trueAnswer": "Keranjang Rotan",
+		"is_correct": false
+	},
+	{
+		"no": 6,
+		"image": "SOAL_2/soal_type2_06.jpg",
+		"answer": "",
+		"trueAnswer": "Masuk Akal",
+		"is_correct": false
+	},
+	{
+		"no": 7,
+		"image": "SOAL_2/soal_type2_07.jpg",
+		"answer": "",
+		"trueAnswer": "Meminta Donasi",
+		"is_correct": false
+	},
+	{
+		"no": 8,
+		"image": "SOAL_2/soal_type2_08.jpg",
+		"answer": "",
+		"trueAnswer": "Menanam Kedelai",
+		"is_correct": false
+	},
+	{
+		"no": 9,
+		"image": "SOAL_2/soal_type2_09.jpg",
+		"answer": "",
+		"trueAnswer": "Mendadak Mimisan",
+		"is_correct": false
+	},
+	{
+		"no": 10,
+		"image": "SOAL_2/soal_type2_10.jpg",
+		"answer": "",
+		"trueAnswer": "Mudik Gratis",
+		"is_correct": false
+	},
+	{
+		"no": 11,
+		"image": "SOAL_2/soal_type2_11.jpg",
+		"answer": "",
+		"trueAnswer": "Nelayan Tradisional",
+		"is_correct": false
+	},
+	{
+		"no": 12,
+		"image": "SOAL_2/soal_type2_12.jpg",
+		"answer": "",
+		"trueAnswer": "Papan Tulis",
+		"is_correct": false
+	},
+	{
+		"no": 13,
+		"image": "SOAL_2/soal_type2_13.jpg",
+		"answer": "",
+		"trueAnswer": "Pasokan Mbludak",
+		"is_correct": false
+	},
+	{
+		"no": 14,
+		"image": "SOAL_2/soal_type2_14.jpg",
+		"answer": "",
+		"trueAnswer": "Perbaikan Nilai",
+		"is_correct": false
+	},
+	{
+		"no": 15,
+		"image": "SOAL_2/soal_type2_15.jpg",
+		"answer": "",
+		"trueAnswer": "Rajin Melatih Otak Agar Pintar",
+		"is_correct": false
+	},
+	{
+		"no": 16,
+		"image": "SOAL_2/soal_type2_16.jpg",
+		"answer": "",
+		"trueAnswer": "Relokasi Narapidana",
+		"is_correct": false
+	},
+	{
+		"no": 17,
+		"image": "SOAL_2/soal_type2_17.jpg",
+		"answer": "",
+		"trueAnswer": "Sepeda",
+		"is_correct": false
+	},
+	{
+		"no": 18,
+		"image": "SOAL_2/soal_type2_18.jpg",
+		"answer": "",
+		"trueAnswer": "Serdadu Gajah Diangkat Jadi Komandan",
+		"is_correct": false
+	},
+	{
+		"no": 19,
+		"image": "SOAL_2/soal_type2_19.jpg",
+		"answer": "",
+		"trueAnswer": "Tenda Sirkus",
+		"is_correct": false
+	},
+	{
+		"no": 20,
+		"image": "SOAL_2/soal_type2_20.jpg",
+		"answer": "",
+		"trueAnswer": "Tindakan Memalukan",
+		"is_correct": false
+	}
+]
