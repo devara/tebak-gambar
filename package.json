@@ -51,7 +51,7 @@
 		"interactjs": "^1.6.2",
 		"intersection-observer": "^0.7.0",
 		"jquery": "^3.4.1",
-		"moment": "^2.24.0",
+		"moment": "^2.29.4",
 		"placeholder-loading": "^0.2.2",
 		"spin.js": "^4.0.0",
 		"sweetalert2": "^7.33.1",
